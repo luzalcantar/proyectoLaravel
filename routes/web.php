@@ -11,6 +11,7 @@
 |
 */
 
+/*Todos son los mismos lelelele */
 Route::get('/', function () {
     return view('welcome');
 });
